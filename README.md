@@ -1,2 +1,2 @@
-# Gene-Anaylsis
-This is a Gene-Environment Interaction Analysis that I created. 
+# Gene-Analysis
+This is the first data analysis project that I made. 
